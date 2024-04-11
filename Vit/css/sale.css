@@ -1,0 +1,1 @@
+@import"./zero.css";@import"./header.css";@import"./footer.css";[class*=__conteiner]{max-width:1080px;padding:0 15px;margin:0 auto}.main{padding:20px 0}.main__title{text-align:center;font-size:36px;margin-bottom:10px;color:#7199c9}table{border-collapse:collapse;width:100%}th,td{border:1px solid #000;padding:8px;text-align:center}th{background-color:#f2f2f2}h1{text-align:center}

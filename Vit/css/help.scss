@@ -1,0 +1,34 @@
+@import url(./zero.css);
+@import url(./header.css);
+@import url(./footer.css);
+
+[class*="__conteiner"] {
+    max-width: 1080px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+
+.main {
+    padding: 20px 0;
+    // .main__title
+
+    &__title {
+        text-align: center;
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+
+    // .main__content
+
+    &__content {
+        display: flex;
+        gap: 20px 10px;
+        flex-wrap: wrap;
+    }   
+&__form {
+    display: flex;
+    flex-flow: column;
+    }
+}
+

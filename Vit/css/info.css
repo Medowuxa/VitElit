@@ -1,0 +1,1 @@
+@import"./zero.css";@import"./header.css";@import"./footer.css";[class*=__conteiner]{max-width:1080px;padding:0 15px;margin:0 auto}.main{padding:20px 0}.main__title{text-align:center;font-size:36px;margin-bottom:10px;color:#7199c9}.main__title2{text-align:start;font-size:20px;color:#7199c9}.main__text{text-align:justify}
