@@ -23,13 +23,13 @@ Vit/
 
 ## How to View
 
-Open `Vit/index.html` in a browser, or run a static server from the repository root:
+Open `index.html` in a browser, or run a static server from the repository root:
 
 ```bash
 npx serve .
 ```
 
-Then open the local address shown by the server and go to `/Vit/index.html`.
+Then open the local address shown by the server. The root page redirects to `/Vit/index.html`, which is useful for GitHub Pages.
 
 ## Pages
 
